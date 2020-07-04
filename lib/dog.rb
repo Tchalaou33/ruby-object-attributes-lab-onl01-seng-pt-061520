@@ -18,7 +18,10 @@ end
 end
     
     fido=Dog.new
-    fido.new
+    fido.name= "Fido"
+    
+    fido.name
+    fido.breed
     
     
     
